@@ -1,2 +1,2 @@
-# learn
-Try to learn git &amp; github
+# learn git & github
+This is my first repository. Try to learn git &amp; github
